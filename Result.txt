@@ -1,0 +1,28 @@
+Approximants for R1
+
+a1 = 13.0 a2 = 24.0 a3 = 19.7 a4 = 31.0
+z1 = -14.5 z2 = -21.3 z3 = -7.6 z4 = -11.24
+n = 20 c = 47.0
+
+0 approximant = 1
+1 approximant = 384.805
+2 approximant = 2.3215783707504105
+3 approximant = 182.59043294262077
+4 approximant = 3.8710055216485726
+5 approximant = 116.33280007408226
+6 approximant = 4.921536556782389
+7 approximant = 83.78942733680711
+8 approximant = 5.843607418578494
+9 approximant = 64.64957921258197
+10 approximant = 6.648798648395513
+11 approximant = 52.17644994348298
+12 approximant = 7.348845674227221
+13 approximant = 43.49350591770285
+14 approximant = 7.955494279207432
+15 approximant = 37.16651639385972
+16 approximant = 8.479904112829058
+17 approximant = 32.40039730179317
+18 approximant = 8.932372413946315
+19 approximant = 28.718891981014934
+20 approximant = 9.322220779610142
+
